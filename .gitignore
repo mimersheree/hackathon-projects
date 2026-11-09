@@ -1,0 +1,21 @@
+# Environment & secrets
+.env
+.env.*
+*.env
+secrets.json
+
+# Python environments & cache
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Operating System & IDE artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+.antigravity/
+

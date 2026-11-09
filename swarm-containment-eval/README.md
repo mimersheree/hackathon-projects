@@ -1,6 +1,7 @@
 # Topological Blast Walls: Multi-Agent Swarm Containment Benchmark
 
-**Submission for the [Apart Research Swarm Alignment Hackathon 2026](https://apartresearch.com/sprints/swarm-alignment-2026) — Track 2: The Science of Agent Networks**
+**Submission for the [Apart Research Swarm Alignment Hackathon 2026](https://apartresearch.com/sprints/swarm-alignment-2026) — Track 2: The Science of Agent Networkscgit status**
+
 
 ## Project Overview
 
